@@ -13,10 +13,10 @@
             HTML5/CSS3/JS/BOOTSTRAP/SASS/PHP/MYSQL/LARAVEL/C++/C/C#
         </span>
 
-    </P>
     
-    </div>
 
 </div>
   
+
+
 
