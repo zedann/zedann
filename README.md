@@ -7,7 +7,7 @@
   </p>
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
-        <span>-I'm a software developer</span> <br>
+        <span>-I'm a Software Developer</span> <br>
         <span>-Study Computer Engineering</span> <br>
         <span>-Skills : 
             HTML5/CSS3/JS/BOOTSTRAP/SASS/PHP/MYSQL/LARAVEL/C++/C/C#
