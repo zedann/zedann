@@ -12,7 +12,7 @@
         <span>-Skills : 
             HTML5/CSS3/JS/BOOTSTRAP/SASS/PHP/MYSQL/LARAVEL/C++/C/C#
         </span>
-    <div>--You Can Call me Zerthufer--</div>
+    <div>@You Can Call me Zerthufer@</div>
     
 
 </div>
