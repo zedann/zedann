@@ -11,7 +11,7 @@
         <span>-Study Computer Engineering</span> <br>
         <span>-Skills : 
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
-Problem Solving
+Problem Solving <a href='https://codeforces.com/profile/Zedan'>Codeforces</a>
         </span>
     <div>@You Can Call Me Zerthufer@</div>
     
