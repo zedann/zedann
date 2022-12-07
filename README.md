@@ -10,7 +10,7 @@
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
         <span>-I'm a Software Developer</span> <br>
         <span>-Study Computer Science & Control Systems </span> <br>
-        <span>-Skills : 
+        <span>-Skills :<br> 
             Data Structure & Algorithms <br>
             Design Patterns <br>
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
