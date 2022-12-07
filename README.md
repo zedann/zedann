@@ -9,7 +9,7 @@
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
         <span>-I'm a Software Developer</span> <br>
-        <span>-Study Computer Engineering</span> <br>
+        <span>-Study Computer Science & Control Systems </span> <br>
         <span>-Skills : 
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
 Problem Solving <a href='https://codeforces.com/profile/Zedan'>Codeforces</a>
