@@ -11,7 +11,10 @@
         <span>-I'm a Software Developer</span> <br>
         <span>-Study Computer Science & Control Systems </span> <br>
         <span>-Skills : 
+            Data Structure & Algorithms <br>
+            Design Patterns <br>
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
+            Math & Logic Enjoyer <br>
 Problem Solving <a href='https://codeforces.com/profile/Zedan'>Codeforces</a>
         </span>
     
