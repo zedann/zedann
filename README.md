@@ -9,7 +9,7 @@
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
         <span>-I'm a Software Engineer</span> <br>
-        <span>-Study Computer Science & Control Systems </span> <br>
+        <span>-Studies Computer Science & Control Systems </span> <br>
         <span>-Skills :<br> 
             Data Structure & Algorithms <br>
             Design Patterns <br>
