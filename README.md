@@ -11,7 +11,7 @@
         <span>-I'm a Software Engineer</span> <br>
         <span>-Studies Computer Science & Control Systems </span> <br>
         <span>-Skills :<br> 
-            Data Structure & Algorithms <br>
+            Data Structures & Algorithms <br>
             Design Patterns <br>
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
             Math & Logic Enjoyer <br>
