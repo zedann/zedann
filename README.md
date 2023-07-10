@@ -14,7 +14,7 @@
             Data Structures & Algorithms <br>
             HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
             Math & Logic Enjoyer <br>
-Problem Solving <a href='https://codeforces.com/profile/Zedan'>Codeforces</a>
+Problem Solving <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
         </span>
     
 
