@@ -12,9 +12,9 @@
         <span>-Studies Computer Science & Control Systems </span> <br>
         <span>-Skills :<br> 
             Data Structures & Algorithms <br>
-            HTML5/CSS3/JS/BOOTSTRAP/SASS/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/API/C++/C/C# <br>
+            HTML5/CSS3/JS/BOOTSTRAP/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/RESTAPI/C++/C/C# <br>
             Math & Logic Enjoyer <br>
-Problem Solving <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
+Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
         </span>
     
 
