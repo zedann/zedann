@@ -16,7 +16,7 @@
             HTML5/CSS3/JS/BOOTSTRAP/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/RESTAPI/C++/C/C# <br>
             Math & Logic Enjoyer <br>
 Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
-            <br> LeetCode:<a href='https://leetcode.com/ZedanMohamed/'>Codeforces</a>
+            <br> LeetCode:<a href='https://leetcode.com/ZedanMohamed/'>LeetCode-Profile</a>
         </span>
     
 
