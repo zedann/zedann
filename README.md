@@ -1,9 +1,7 @@
 <div style="background-color: #ffeb3b; font-family: Arial, Helvetica, sans-serif;">
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/zedan-mohamed-9ba98b21a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    
-    
-    
+
   </p>
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
