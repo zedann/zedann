@@ -5,14 +5,14 @@
   </p>
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
-        <span>-I'm a Software Engineer</span> <br>
-        <span>-Studies Computer Science & Control Systems </span> <br>
-        <span>-Skills :<br> 
-            Data Structures & Algorithms <br>
-            Networking & Databases <br>
-            HTML5/CSS3/JS/BOOTSTRAP/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/RESTAPI/C++/C/C# <br>
-            Math & Logic Enjoyer <br>
-Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
+        <span>I'm a Software Engineer 🧑‍💻</span> <br>
+        <span>Studies Computer Science & Control Systems </span> <br>
+        <span>Skills<br> 
+            ✅ Data Structures & Algorithms <br>
+            ✅ Networking & Databases <br>
+            ✅ HTML5/CSS3/JS/BOOTSTRAP/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/RESTAPI/C++/C/C# <br>
+            ✅ Math & Logic Enjoyer <br>
+            🥰 Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV'>Codeforces</a>
             <br> LeetCode: <a href='https://leetcode.com/ZedanMohamed/'>LeetCode-Profile</a>
         </span>
     
