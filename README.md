@@ -12,7 +12,7 @@
             ✅ Networking & Databases <br>
             ✅ HTML5/CSS3/JS/BOOTSTRAP/ANGULAR/NodeJS/PHP/MYSQL/LARAVEL/RESTAPI/C++/C/C# <br>
             ✅ Math & Logic Enjoyer <br>
-            🥰 Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV'><img src='./icons/codeforces.png' width="25px"></a>
+            🥰 Problem Solving & CP : <a href='https://codeforces.com/profile/ZedanIntrovertV' style="text-align:center"><img src='./icons/codeforces.png' width="25px"></a>
             <br> 🥰 LeetCode: <a href='https://leetcode.com/ZedanMohamed/'>LeetCode-Profile</a>
         </span>
     
