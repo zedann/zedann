@@ -1,6 +1,5 @@
 <h3 align="center">A passionate software engineer | ex-Competitive programmer🧑🏻‍💻</h3>
 
-<p align="left"> <a href="https://twitter.com/zedanmohamed99" target="blank"><img src="https://pbs.twimg.com/profile_images/1723967177877766144/7L5T_Xy2_400x400.jpg" alt="https://twitter.com/zedanmohamed99" /></a> </p>
 
 - 💬 Ask me about **Backend | Competitive programming**
 
