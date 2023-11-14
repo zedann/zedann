@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software engineer | Back-end Dev | ex-Competitive programmer🧑🏻‍💻</h3>
 
 
-- 💬 Ask me about **Backend | Competitive programming**
+- 💬 Ask me about **Backend | Competitive programming | Networking | Databases**
 
 - 📫 How to reach me **zedanmohamedcp@gmail.com**
 
