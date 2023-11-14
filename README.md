@@ -6,7 +6,8 @@
   </p>
   <div style="display: flex; align-items: center;justify-content: center;">
     <P style="background: #f44336;padding:50px;color:#fff;font-size: 30px;border-radius: 6px;">  
-        <span>I'm a Software Engineer 🧑🏻‍💻</span> <br>
+        <span>I'm a Software Engineer 🧑🏻‍💻 </span> <br>
+        <span>Interested in backend and cyber security</span> <br>
         <span>Studies Computer Science & Control Systems </span> <br>
         <span>Skills👇<br> 
             ✅ Data Structures & Algorithms <br>
