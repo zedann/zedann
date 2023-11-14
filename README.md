@@ -1,7 +1,9 @@
-<div style='width:100%;'>
-
-  <img align="center" src="https://i.pinimg.com/originals/c0/9a/be/c09abeaae50b2b922e18a3ee47ba427c.gif"/>
-
+<div style="display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;" >
+  <img src="https://i.pinimg.com/originals/c0/9a/be/c09abeaae50b2b922e18a3ee47ba427c.gif" alt="Header Img" style="max-width: 100%; 
+      height: auto;">
 </div>
 <h3 align="center">A passionate software engineer | Back-end Dev | ex-Competitive programmer🧑🏻‍💻</h3>
 
