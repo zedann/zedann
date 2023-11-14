@@ -1,3 +1,4 @@
+<img align="center" src="https://i.pinimg.com/originals/c0/9a/be/c09abeaae50b2b922e18a3ee47ba427c.gif"/>
 <h3 align="center">A passionate software engineer | Back-end Dev | ex-Competitive programmer🧑🏻‍💻</h3>
 
 
