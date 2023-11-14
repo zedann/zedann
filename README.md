@@ -1,4 +1,4 @@
-<h3 align="center">A passionate software engineer | BACKEND DEV | ex-Competitive programmer🧑🏻‍💻</h3>
+<h3 align="center">A passionate software engineer | Back-end Dev | ex-Competitive programmer🧑🏻‍💻</h3>
 
 
 - 💬 Ask me about **Backend | Competitive programming**
