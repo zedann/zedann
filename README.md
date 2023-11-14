@@ -1,7 +1,6 @@
-<h1 align="center">Your Friend Zedan</h1>
 <h3 align="center">A passionate software engineer | ex-Competitive programmer🧑🏻‍💻</h3>
 
-<p align="left"> <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png" alt="zedann" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/zedanmohamed99" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zedanmohamed99?logo=twitter&style=for-the-badge" alt="https://twitter.com/zedanmohamed99" /></a> </p>
 
