@@ -45,7 +45,7 @@
 <!-- back end -->
 <h4>Back End:</h4>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src=https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"" alt="golang" width="40" height="40"/> </a>
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="golang" width="40" height="40"/> </a>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
