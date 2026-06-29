@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/c0/9a/be/c09abeaae50b2b922e18a3ee47ba427c.gif" alt="Header Img" style="width:100%
 ">
 </div>
-<h3 align="center">A passionate software engineer | Back-end Dev | ex-Competitive programmer🧑🏻‍💻</h3>
+<h3 align="center">A passionate software engineer | Back-end | ex-Competitive programmer🧑🏻‍💻</h3>
 
-- 💬 Ask me about **Backend | Competitive programming | Networking | Databases | Pentration Testing**
+- 💬 Ask me about **Backend | Competitive programming | Networking | Databases | Operating Systems | Pentration Testing**
 
 - 📫 How to reach me **zedanmohamedcp@gmail.com**
 
